@@ -1,11 +1,7 @@
 Tags:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="385" width="480">
-  <param name="allowFullScreen" value="True" />
-  <param name="allowscriptaccess" value="always" />
-  <param name="movie" value="http://www.youtube.com/v/0wsn7TScojw&ap=%2526fmt%3D18" />
-  <embed height="385" width="480" src="http://www.youtube.com/v/0wsn7TScojw&ap=%2526fmt%3D18" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash"></embed>
-</object>
+
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/0wsn7TScojw?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0wsn7TScojw?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 Credits:
 
