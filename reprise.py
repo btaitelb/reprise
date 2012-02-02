@@ -27,10 +27,10 @@ AUTHOR = {
     'email': 'ron.duplain@gmail.com',
     'url': 'http://twitter.com/rduplain',
     'elsewhere': {
-        'venue': 'http://getopenspace.com/',
+        'venue': 'http://www.willowtreeapps.com/',
         '#beSwarm': 'http://search.twitter.com/search?q=%23beSwarm',
-        'map': 'http://maps.google.com/maps?q=455+Second Street+SE+Suite+100+Charlottesville+VA+22902',
-        'sign up': 'http://barcamp.org/beSwarm2',
+        'map': 'http://maps.google.com/maps?q=107+5th+Street+SE+Suite+B+Charlottesville+VA+22902',
+        'sign up': 'http://barcamp.org/beSwarm3',
     }
 }
 
